@@ -1,3 +1,5 @@
+![](http://3.bp.blogspot.com/-PiktfY6sRzE/UzP2RTGeoQI/AAAAAAAADeE/TcYLNLSfXMU/s1600/Need+Code+By+PCbots.png)
+
 # :smile: Hey I'm Tony
 
 Junior Software Engineer eager to contribute to team success through hard work. An excellent multi-tasker who can organize and manage multiple projects at the same time. Clear understanding of __*ASP .Net Core*, *JavaScript*__ and other varieties of languages __*C#, Python*__ Excellent knowledge, __*Object Oriented Design*__, creative problem solver and analytical mindset.
