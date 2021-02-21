@@ -1,4 +1,4 @@
-<img src="http://3.bp.blogspot.com/-PiktfY6sRzE/UzP2RTGeoQI/AAAAAAAADeE/TcYLNLSfXMU/s1600/Need+Code+By+PCbots.png">
+![](http://3.bp.blogspot.com/-PiktfY6sRzE/UzP2RTGeoQI/AAAAAAAADeE/TcYLNLSfXMU/s1600/Need+Code+By+PCbots.png)
 
 # :smile: Hey I'm Tony
 
@@ -10,4 +10,4 @@ Junior Software Engineer eager to contribute to team success through hard work. 
 
 ## Tools and Languages
 
-![](https://img.icons8.com/nolan/48/visual-studio-code-2019.png) ![](https://img.icons8.com/color/48/000000/c-sharp-logo-2.png) ![](https://img.icons8.com/color/48/000000/python.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/nolan/48/github.png) ![](https://img.icons8.com/color/48/000000/git.png)
+![](https://img.icons8.com/color/48/000000/c-sharp-logo-2.png) ![](https://img.icons8.com/color/48/000000/python.png) ![](https://img.icons8.com/color/48/000000/javascript.png) ![](https://img.icons8.com/nolan/48/visual-studio-code-2019.png) ![](https://img.icons8.com/nolan/48/github.png) ![](https://img.icons8.com/color/48/000000/git.png)
