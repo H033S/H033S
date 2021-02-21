@@ -4,14 +4,14 @@ Junior Software Engineer eager to contribute to team success through hard work. 
 
 ## Tools and Languages
 
-<img src="https://img.icons8.com/nolan/48/visual-studio-code-2019.png"/>
+<img align="left" src="https://img.icons8.com/nolan/48/visual-studio-code-2019.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
-<img src="https://img.icons8.com/nolan/48/github.png"/>
+<img align="left" src="https://img.icons8.com/nolan/48/github.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
