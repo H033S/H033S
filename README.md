@@ -9,8 +9,7 @@ Junior Software Engineer eager to contribute to team success through hard work. 
 <p>
     <a href="(https://www.linkedin.com/in/antonio-nazco-7a41591a1/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
     <a href="https://www.hackerrank.com/tonito_nazco"> <img src="https://img.icons8.com/windows/48/4a90e2/hackerrank.png"/></a>
-    <a href="https://twitter.com/H033S"> <img src=""><img src="https://img.icons8.com/color/48/4a90e2/twitter--v1.png"/>
-    </a>
+    <a href="https://twitter.com/H033S"> <img src=""><img src="https://img.icons8.com/color/48/4a90e2/twitter--v1.png"/></a>
 </p>
 
 ## Tools and Languages
