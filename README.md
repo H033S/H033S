@@ -1,9 +1,17 @@
 # :smile: Hey I'm Tony
 
-Junior Software Engineer eager to contribute to team success through hard work. An excellent multi-tasker who can organize and manage multiple projects at the same time. Clear understanding of __*ASP .Net Core*, *JavaScript*__ and other varieties of languages __*C#, Python*__ Excellent knowledge, object oriented design, creative problem solver and analytical mindset.
+Junior Software Engineer eager to contribute to team success through hard work. An excellent multi-tasker who can organize and manage multiple projects at the same time. Clear understanding of __*ASP .Net Core*, *JavaScript*__ and other varieties of languages __*C#, Python*__ Excellent knowledge, __*Object Oriented Design*__, creative problem solver and analytical mindset.
 
 ## Tools and Languages
 
-![VSCode](C:\Users\tonit\OneDrive\Documentos\GitHub\Ho33S)
+<img src="https://img.icons8.com/nolan/48/visual-studio-code-2019.png"/>
 
-![C#](https://www.google.com/search?q=c%23+logo+png&sxsrf=ALeKk00bGoubQnC9-fq43zXHmbL4lCtIKQ:1613879599771&tbm=isch&source=iu&ictx=1&fir=hxQphvxPcSwi8M%252CFXGmD7hWMMg64M%252C_&vet=1&usg=AI4_-kRzFfCbGbEhFo9jefzCQa_GFOmsjA&sa=X&ved=2ahUKEwjOpYSCivruAhWstlkKHaGqCO8Q9QF6BAgHEAE#imgrc=hxQphvxPcSwi8M)
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
+<img src="https://img.icons8.com/nolan/48/github.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
