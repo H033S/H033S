@@ -6,7 +6,7 @@ Junior Software Engineer eager to contribute to team success through hard work. 
 
 ## Contact Me
 
-[<img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/>](https://www.linkedin.com/in/antonio-nazco-7a41591a1/) [<img src="https://img.icons8.com/windows/48/4a90e2/hackerrank.png"/>](https://www.hackerrank.com/tonito_nazco?hr_r=1) [<img src="https://img.icons8.com/color/48/4a90e2/twitter--v1.png"/>](https://twitter.com/H033S)
+[<img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/>](https://www.linkedin.com/in/antonio-nazco-7a41591a1/) [<img src="https://img.icons8.com/windows/48/4a90e2/hackerrank.png"/>](https://www.hackerrank.com/tonito_nazco?hr_r=1) 
 
 ## Tools and Languages
 
