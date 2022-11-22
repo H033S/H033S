@@ -2,7 +2,7 @@
 
 # :smile: Hey I'm Tony
 
-Junior Software Engineer eager to contribute to team success through hard work. An excellent multi-tasker who can organize and manage multiple projects at the same time. Clear understanding of __*ASP .Net Core*, *JavaScript*__ and other varieties of languages __*C#, Python*__ Excellent knowledge, __*Object Oriented Design*__, creative problem solver and analytical mindset.
+Junior Software Engineer eager to contribute to team success through hard work. An excellent multi-tasker who can organize and manage multiple projects at the same time. Clear understanding of __*ASP .Net Core*, *Flask*__ and other varieties of languages __*C#, Python*__ Excellent knowledge, __*Object Oriented Design*__, creative problem solver and analytical mindset.
 
 ## Contact Me
 
